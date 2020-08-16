@@ -29,7 +29,7 @@
 
 
 <img src="my project pictures /Screenshot 2020-08-15 at 8.15.35 PM.png" width="500"> 
-<img src="my project pictures /Screenshot 2020-08-16 at 10.46.25 PM.png" width="500">
+<img src="my project pictures/Screenshot 2020-08-16 at 10.46.25 PM.png" width="500">
 <img src="my project pictures /Screenshot 2020-08-15 at 8.39.51 PM.png" width="500">
 
 
