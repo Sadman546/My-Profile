@@ -18,13 +18,13 @@
 
 
 
-<img src="Images/Screenshot 2020-08-15 at 4.48.25 AM.png">
+<img src="Images/Screenshot 2020-08-15 at 4.48.25 AM.png" width="500">
 <h4>Dream Job  </h4>
 <p>My dream job for me will be customer support based IT job. The reason for making this job My dream is because I like to help people.I found a job on seek.com which I think is an ideal job for me. The job is a customer service job which makes it an ideal position for me cause I will allow me to help people. The qualification for this job is High proficiency in MS Word, Outlook and Excel. Reliability and punctuality.Strong organisation skills and methodical troubleshooting skills.A keen interest in IT with the ability to provide outstanding customer service. I possess some skills at the moment. The skills that I have lacking I am planning to acquire from .RMIT</p>
 
 <h4>Personal Profile</h4>
 <p>From the Myers-Briggs test, I learned a lot about my personality. And from the learning style test what is the most efficient learning way for me. and from the psychometric test, I learned the theory and technique of psychological measurement. Knowing my results I think I will be comfortable working in a group. And also it will help me improve my skills working with a group.</P>
-<img src="Images/Screenshot 2020-08-15 at 8.15.35 PM.png"> <img src="ImageScreenshot 2020-08-15 at 8.30.50 PM.pngstyle="width:500px;height:600px;"> <img src="Images/Screenshot 2020-08-15 at 8.39.51 PM.png ">
+<img src="Images/Screenshot 2020-08-15 at 8.15.35 PM.png"width="500""> <img src="ImageScreenshot 2020-08-15 at 8.30.50 PM.png width="500";"> <img src="Images/Screenshot 2020-08-15 at 8.39.51 PM.png"width="500">
 
 
 <h4>Project Idea </h4>
