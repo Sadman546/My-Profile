@@ -17,7 +17,7 @@
 
 
 
-<img src="My-Profile/my project pictures /Screenshot 2020-08-15 at 4.48.25 AM.png ">
+<img src="my project pictures /Screenshot 2020-08-15 at 4.48.25 AM.png">
 <h4>Dream Job  </h4>
 <p>My dream job for me will be customer support based IT job. The reason for making this job My dream is because I like to help people.I found a job on seek.com which I think is an ideal job for me. The job is a customer service job which makes it an ideal position for me cause I will allow me to help people. The qualification for this job is High proficiency in MS Word, Outlook and Excel. Reliability and punctuality.Strong organisation skills and methodical troubleshooting skills.A keen interest in IT with the ability to provide outstanding customer service. I possess some skills at the moment. The skills that I have lacking I am planning to acquire from .RMIT</p>
 
