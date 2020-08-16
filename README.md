@@ -24,8 +24,7 @@
 
 <h4>Personal Profile</h4>
 <p>From the Myers-Briggs test, I learned a lot about my personality. And from the learning style test what is the most efficient learning way for me. and from the psychometric test, I learned the theory and technique of psychological measurement. Knowing my results I think I will be comfortable working in a group. And also it will help me improve my skills working with a group.</P>
-<img src="Images/Screenshot 2020-08-15 at 8.15.35 PM.png"width="500""> <img src="ImageScreenshot 2020-08-15 at 8.30.50 PM.png width="500";"> <img src="Images/Screenshot 2020-08-15 at 8.39.51 PM.png"width="500">
-
+<img src="Images/Screenshot 2020-08-15 at 8.15.35 PM.png"> <img src="ImageScreenshot 2020-08-15 at 8.30.50 PM.pngstyle="width:500px;height:600px;"> <img src="Images/Screenshot 2020-08-15 at 8.39.51 PM.png ">
 
 <h4>Project Idea </h4>
 <p>In future after my studies at RMIT University, I would like to work on projects like simulation. I am passionate about car modding. I would like to develop a simulator connected with a mobile app which will help people who are passionate about cars before purchasing a new car or while remodelling their old car. This simulator can be played as a video game and as well as a tool for vehicle manfuactors and mechanic and also for passionate drives.</p>
