@@ -28,9 +28,9 @@
 <p>From the Myers-Briggs test, I learned a lot about my personality. And from the learning style test what is the most efficient learning way for me. and from the psychometric test, I learned the theory and technique of psychological measurement. Knowing my results I think I will be comfortable working in a group. And also it will help me improve my skills working with a group.</P>
 
 
-<img src="my project pictures /Screenshot 2020-08-15 at 8.15.35 PM.png"width="500"> 
+<img src="my project pictures /Screenshot 2020-08-15 at 8.15.35 PM.png" width="500"> 
 <img src="my project pictures/Screenshot 2020-08-16 at 10.46.25 PM.png" width="500">
-<img src="my project pictures /Screenshot 2020-08-15 at 8.39.51 PM.png"width="500">
+<img src="my project pictures /Screenshot 2020-08-15 at 8.39.51 PM.png" width="500">
 
 
 
@@ -40,7 +40,7 @@
 <p>I would like to use Unity as its platform-independent. It will help me to develop apps for both android and apple. It will also help me to develop for mac and windows as well. Unity is a cross-platform game engine
 The reason I chose unity is that it can make both 2d and 3d. Which will help me to make my simulator more realistic and customer friendly. As well as it can be used while making the Android, Apple, windows and mac app.</p>
 
-<p>In the simulator, the main functions will be Moding the. It will show the customer how they can change with visual instruction. the can choose from thousands of option. they will be able to change or modify or upgrade every single part of there cars such as the bumper, spoilers, headlights, the wheel rims, indicator light etc. They will also be able to change the interior or exterior colour of the car as well as the seat colours. People can also check the durability of the brake.</P>
+<p>In the simulator, the main functions will be Moding the. It will show the customer how they can change with visual instruction. the can choose from thousands of option. they will be able to change or modify or upgrade every single part of there cars such as the bumper, spoilers, headlights, the wheel rims, indicator light etc. They will also be able to change the interior or exterior colour of the car as well as the seat colours. People can also check the durability of the brake.</P
 
 <p>The app can also be very much helpful while giving information about the vehicle and also. It will tell the user how will be its performance on offroad and as well as on-road. The fuel efficiency of the car.The engine power of the car. The entertainment system. How much torque the engine can produce. The durability of the body. How will it work in different weather conditions like Driver's training in sunny weather is available. The trainee can choose driver's training in rainy weather. Wiper arms are available in the program and these operate integrated with the equipment. Driver's training in snowy weather is available. Driver's training in foggy weather is available. Also, the information about Artificial intelligence if any car has it or available installation. The app can also suggest a particular type of driving or usage of the vehicle. The passenger capacity or the capacity of caring weigh. </P>
 
