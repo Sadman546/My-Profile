@@ -28,9 +28,9 @@
 <p>From the Myers-Briggs test, I learned a lot about my personality. And from the learning style test what is the most efficient learning way for me. and from the psychometric test, I learned the theory and technique of psychological measurement. Knowing my results I think I will be comfortable working in a group. And also it will help me improve my skills working with a group.</P>
 
 
-<img src="my project pictures/Screenshot 2020-08-15 at 8.15.35 PM.png" width="500"> 
-<img src="my project pictures/Screenshot 2020-08-16 at 10.46.25 PM.png" width="500">
-<img src="my project pictures/Screenshot 2020-08-15 at 8.39.51 PM.png" width="500">
+<img src="my project pictures /Screenshot 2020-08-15 at 8.15.35 PM.png" width="500"> 
+<img src="my project pictures /Screenshot 2020-08-16 at 10.46.25 PM.png" width="500">
+<img src="my project pictures /Screenshot 2020-08-15 at 8.39.51 PM.png" width="500">
 
 
 
